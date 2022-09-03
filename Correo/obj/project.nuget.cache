@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "geUpJpnmtgwvsRtd511gKE+CN2iY6w1aAg6g8ecNvSMsuFkdw+b7dXJnv1Jt1gqqNqs8p258VcQWYVbWPuDZtA==",
+  "success": true,
+  "projectFilePath": "E:\\Universidad - Aprendizaje\\Universidad\\C5\\DCU\\MantenimientoMedico_Csharp-WindowsForms\\Correo\\Correo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josea\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\josea\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\josea\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
